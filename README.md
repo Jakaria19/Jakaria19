@@ -1,16 +1,36 @@
-## Hi there 👋
+![Banner](https://your-banner-image-link)
 
-<!--
-**Jakaria19/Jakaria19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jakaria | Frontend Web Developer
 
-Here are some ideas to get you started:
+## 👋 About Me
+I am a Computer Science student and aspiring Frontend Web Developer.
+I enjoy building clean, responsive, and user-friendly web applications.
+Currently focused on modern JavaScript frameworks and real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Activities
+- Exploring Next.js and modern React patterns
+- Working on a tourism website project
+- Improving UI/UX and performance optimization skills
+
+## 🛠️ Skills
+
+### Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+## 🌐 Connect With Me
+- LinkedIn: https://linkedin.com/in/jakaria19
+- GitHub: https://github.com/jakaria19
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakaria19)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakaria19)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakaria19)
