@@ -1,4 +1,4 @@
-![Banner](https://your-banner-image-link)
+![Banner](https://www.canva.com/design/DAG9EAe_0EA/iWkgclWnxGZ3hi-lAXJBRw/)
 
 # Jakaria | Frontend Web Developer
 
