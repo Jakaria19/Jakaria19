@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAG9EAe_0EA/iWkgclWnxGZ3hi-lAXJBRw/)
+![Banner](https://www.canva.com/design/DAG9EAe_0EA/lJEE8NqK9lVyw9rf8Wg7ng/view?utm_content=DAG9EAe_0EA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0bb1177551)
 
 # Jakaria | Frontend Web Developer
 
@@ -34,3 +34,4 @@ Currently focused on modern JavaScript frameworks and real-world projects.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakaria19)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakaria19)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakaria19)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jakaria19&show_icons=true&theme=default)
