@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAG9EAe_0EA/lJEE8NqK9lVyw9rf8Wg7ng/view?utm_content=DAG9EAe_0EA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0bb1177551)
+![Banner](https://i.ibb.co.com/gbkkXjHY/Abstract-Technology-Profile-Linked-In-Banner-20260105-154729-0000.png)
 
 # Jakaria | Frontend Web Developer
 
