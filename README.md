@@ -35,3 +35,5 @@ Currently focused on modern JavaScript frameworks and real-world projects.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakaria19)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakaria19)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jakaria19&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakaria19&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jakaria19)
